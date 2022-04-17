@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"FastShell has now been released","permalink":"/blog/FastShell-has-now-been-released"},{"title":"FastShell plugin is coming soon","permalink":"/blog/FastShell-plugin-is-coming-soon"}]}')}}]);
