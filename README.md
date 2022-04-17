@@ -1,5 +1,12 @@
 # FastShell
 
+<p> 
+
+[简体中文](https://github.com/obiscr/FastShell/blob/main/README_CN.md)  |
+[English](https://github.com/obiscr/FastShell/blob/main/README.md)
+
+</p>
+
 ## Introduce
 
 Fast Shell supports the management of custom scripts, which can quickly execute shell commands. The supported commands depend on the shell environment used by the current IDE.
