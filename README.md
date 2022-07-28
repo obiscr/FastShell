@@ -7,6 +7,20 @@
 
 </p>
 
+
+# 折扣 (Discount)
+
+Add a WeChat group or join Slack for a discount
+
++ Slack
+
+  [Click to Join Slack](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA)
+
++ 微信群
+
+  <img width=200 src="https://services.obiscr.com/file/图片/FastShell（一）群-20220727101211502.png" alt="二维码">
+
+
 ## Introduce
 
 Fast Shell supports the management of custom scripts, which can quickly execute shell commands. The supported commands depend on the shell environment used by the current IDE.
