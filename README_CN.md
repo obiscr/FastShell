@@ -1,5 +1,27 @@
 # FastShell
 
+
+<p> 
+
+[简体中文](https://github.com/obiscr/FastShell/blob/main/README_CN.md)  |
+[English](https://github.com/obiscr/FastShell/blob/main/README.md)
+
+</p>
+
+
+# 折扣 (Discount)
+
+添加微信群或者加入Slack 享受折扣
+
++ Slack
+
+  [点击加入Slack](https://join.slack.com/t/observercreator/shared_invite/zt-14g3dnzkx-FGJM_WgY~vj0bJINTHQSAA)
+
++ 加入微信群
+
+  <img width=200 src="https://services.obiscr.com/file/图片/FastShell（一）群-20220727101211502.png" alt="二维码">
+
+
 ## 介绍
 
 Fast Shell 支持管理自定义的脚本，可以快速执行shell指令。支持的指令，取决于当前IDE所使用的Shell环境。Fast Shell 具有相当高的自由度。所有的指令完全由用户自己定义。
